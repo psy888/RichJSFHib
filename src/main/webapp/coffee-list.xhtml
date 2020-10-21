@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:ui="http://java.sun.com/jsf/facelets"
+      xmlns:a4j="http://richfaces.org/a4j" xmlns:f="http://xmlns.jcp.org/jsf/core">
+<body>
+<ui:composition>
+   <h2>Coffe List</h2>
+   <h:form>
+      <a4j:commandButton value="Add Dummy data" action="#{coffeeList.addDummyData()}" execute="@form" render="coffeeList"/>
+   </h:form>
+
+   <h:dataTable id="coffeeList" value="#{coffeeList.coffeeList}" var="coffee">
+      <h:column>
+         <f:facet name="header"><h:outputText value="ID"/></f:facet>
+         <h:outputText value="#{coffee.id}"/>
+      </h:column>
+      <h:column>
+         <f:facet name="header"><h:outputText value="Name"/></f:facet>
+         <h:outputText value="#{coffee.name}"/>
+      </h:column>
+   </h:dataTable>
+</ui:composition>
+</body>
+</html>

@@ -1,0 +1,37 @@
+
+I
+src/main/webapp/index.jsp,8\e\8e6d3b70c9f5b02570779b0441540d45eceb0ded
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+O
+src/main/webapp/WEB-INF/web.xml,2\e\2e22b6edd746fa3dc40ad7276c87c8d87d72a392
+J
+src/main/webapp/home.xhtml,9\8\98bc115dd7bbb7841350ee4cb878c6ab442e7c1f
+K
+src/main/webapp/order.xhtml,2\9\293a036133a3ef4d15aaf9c315ba36bf1548199e
+O
+src/main/java/richjsf/Home.java,a\0\a06b62ade2799bb2fc776f431c5ef155385d3081
+U
+%src/main/webapp/template/header.xhtml,c\a\ca9f3a7a8c7a9dca6897da0fdff134ae1ebde5dd
+U
+%src/main/webapp/template/footer.xhtml,7\3\737f609611b9e0fb6d07ba039a5fb6d6919d781a
+W
+'src/main/webapp/template/contetnt.xhtml,e\f\ef9eef81a124d6136c8cb08ba970dc88ca8ad9a6
+U
+%src/main/webapp/template/layout.xhtml,7\7\77f9fd24866af41e0fad14aa493d7bc56019df43
+W
+'src/main/webapp/resources/css/style.css,7\9\793286005b9090bf4b63c9281f5cbde07930695e
+\
+,src/main/java/richjsf/entity/CoffeeType.java,4\6\46ceae4ed7c53e17ded4de3984b8ba0ce61dc07a
+Q
+!src/main/webapp/coffee-list.xhtml,9\7\976dc980f10672f653af7ca8082d6aea6c6e3da4
+X
+(src/main/java/richjsf/dao/CoffeeDao.java,d\2\d2458cec35299cc40f14e6c7c84b09b89a327098
+O
+src/main/java/richjsf/Main.java,c\9\c934927556798f0f74de314d576e4cad985584ae
+j
+:src/main/java/richjsf/configuration/BeanConfiguration.java,6\f\6fd7d3b2b2b4865bd5963c39932413ac18edaf5d
+`
+0src/main/java/richjsf/service/CoffeeService.java,5\e\5efcfe648295e80350f3a3cfee0ce9da8d4790db
+Z
+*src/main/java/richjsf/view/CoffeeList.java,c\7\c72c601db0488c26730afbeb4055938866e650a4

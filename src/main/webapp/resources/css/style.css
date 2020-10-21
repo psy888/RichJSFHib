@@ -1,0 +1,9 @@
+#content {
+    background-color: burlywood;
+    color: sienna;
+}
+
+#header, #footer {
+    color: beige;
+    background-color: chocolate;
+}
